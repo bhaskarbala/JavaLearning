@@ -14,6 +14,7 @@ public class Rajaram2Test extends Pichidana {
 		System.out.println(rt.ft);
 		rt.a=300;
 		System.out.println(rt.a);
+		System.out.println(rt.a);
 		
 				
 	}
